@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruhSlatt/todo.git"
+  },
+  "author": "Bren Quinlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruhSlatt/todo/issues"
+  },
+  "homepage": "https://github.com/BruhSlatt/todo#readme"
+}
